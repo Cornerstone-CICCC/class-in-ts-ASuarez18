@@ -1,0 +1,20 @@
+{
+  "name": "class-in-ts-asuarez18",
+  "version": "1.0.0",
+  "description": "In this exercise, you will simulate an airport luggage system using TypeScript classes. Airports typically allow luggage up to 23kg without extra charges. Beyond this limit, an extra fee is charged per additional kilo. If the luggage has a different priority status,the extra kilo charge increases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/class-in-ts-ASuarez18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/class-in-ts-ASuarez18/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/class-in-ts-ASuarez18#readme"
+}
